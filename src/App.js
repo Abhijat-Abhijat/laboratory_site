@@ -9,6 +9,8 @@ import People from './components/People';
 import Contact from './components/Contact';
 import Alumni from './components/Alumni';
 import Gallery from './components/Gallery';
+import Header from './components/Header';
+import Nav from './components/Nav';
 import "./styles/App.scss";
 import "./styles/header.scss";
 import "./styles/nav.scss";
@@ -16,6 +18,7 @@ import "./styles/nav.scss";
 function App() {
   return (
     <Router>
+    <Header/>
       <Routes>
         <Route path="/home" element={<Home />} />
         <Route path="/research" element={<Research />} />
@@ -26,6 +29,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/alumni" element={<Alumni />} />
       </Routes>
+<Nav/>
     </Router>
   );
 }
