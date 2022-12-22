@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    // overflow-x: hidden;
+    // overflow-y: hidden;
+}
+::-webkit-scrollbar {
+    display: none;
+  }
