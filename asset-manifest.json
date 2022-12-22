@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/laboratory_site/static/css/main.d7e58e7d.css",
+    "main.js": "/laboratory_site/static/js/main.6649eaf9.js",
+    "static/media/bg1.jpg": "/laboratory_site/static/media/bg1.d98fc377bbca8aa697b8.jpg",
+    "static/media/img3.jpg": "/laboratory_site/static/media/img3.b9409b53fc52834b87c6.jpg",
+    "static/media/img5.jpg": "/laboratory_site/static/media/img5.05f608e8497736e0b241.jpg",
+    "static/media/img2.jpg": "/laboratory_site/static/media/img2.bd629775940dc77828f7.jpg",
+    "static/media/Arjumand.jfif": "/laboratory_site/static/media/Arjumand.02daa6757289ccfbee19.jfif",
+    "static/media/img1.jpg": "/laboratory_site/static/media/img1.83736985dcbeb41a4f44.jpg",
+    "static/media/Prerna.jfif": "/laboratory_site/static/media/Prerna.a47f7f9ff29465050bc0.jfif",
+    "static/media/bg.jpg": "/laboratory_site/static/media/bg.202e630d8d2608fd504c.jpg",
+    "static/media/img4.jpg": "/laboratory_site/static/media/img4.4ae1231bccdec84d9228.jpg",
+    "static/media/Aprajita.jpg": "/laboratory_site/static/media/Aprajita.f9bed326003407ac3b4c.jpg",
+    "static/media/logo.jpeg": "/laboratory_site/static/media/logo.54c45d626211b9b9aabc.jpeg",
+    "static/media/profile.webp": "/laboratory_site/static/media/profile.4a33880eba1cfcca5feb.webp",
+    "index.html": "/laboratory_site/index.html",
+    "main.d7e58e7d.css.map": "/laboratory_site/static/css/main.d7e58e7d.css.map",
+    "main.6649eaf9.js.map": "/laboratory_site/static/js/main.6649eaf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e58e7d.css",
+    "static/js/main.6649eaf9.js"
+  ]
+}
