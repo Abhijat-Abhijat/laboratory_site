@@ -18,8 +18,9 @@ import "./styles/nav.scss";
 function App() {
   return (
     <Router>
-    <Header/>
+    
       <Routes>
+    <Header/>
         <Route path="/home" element={<Home />} />
         <Route path="/research" element={<Research />} />
         <Route path="/news" element={<News />} />
@@ -28,8 +29,9 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/alumni" element={<Alumni />} />
+          <Nav/>
       </Routes>
-<Nav/>
+
     </Router>
   );
 }
